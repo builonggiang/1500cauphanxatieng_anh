@@ -1,0 +1,6 @@
+{
+  "name": "Luyện Phản Xạ Nói & Viết Tiếng Anh - 1500 Câu Giao Tiếp",
+  "description": "Ứng dụng luyện phản xạ 1500 câu tiếng Anh thông dụng: Viết hoàn thiện câu, nghe phát âm bản xứ, luyện nghe chép chính tả và luyện phát âm chấm điểm bằng AI.",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
